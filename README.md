@@ -1,5 +1,5 @@
 # Sudoku_BackTrack_Solver
-Solver for Sudoku game developed in Python.
+Solver for 9x9 Sudoku game, developed in Python.
 
 
 Algorithm
